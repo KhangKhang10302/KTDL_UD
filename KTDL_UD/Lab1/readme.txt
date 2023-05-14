@@ -1,0 +1,1 @@
+Khai thác tập phổ biến dữ liệu bằng thuật toán apriori
